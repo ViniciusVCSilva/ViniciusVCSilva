@@ -2,18 +2,18 @@
 
 <!-- VISITOR COUNTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ViniciusVCSilva &style=for-the-badge&color=2a9d8f">
+  <img src="https://komarev.com/ghpvc/?username=ViniciusVCSilva&style=for-the-badge&color=2a9d8f">
   <br><br>
   
 <!-- TYPER AUTOMATIC -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2a9d8f&size=35&center=true&vCenter=true&width=1000&lines=.../Hello,+my+name's+Vinicius+Victor/...;.../I'm+a+Developer+and+Designer/...;.../I'm+from+Brazil,+SP/...)](https://git.io/typing-svg)
 
 <!-- MT STATUS AND LANGUAGES USED -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ViniciusVCSilva">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=ViniciusVCSilva&theme=moltack&show_icons=true"/>
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVCSilva&theme=moltack&layout=compact"/>
-</div>
+</div> -->
  
 <!--  MY GRAPHIC OF COMMITS -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusVCSilva&bg_color=001219&color=2a9d8f&line=e0e1dd&point=2a9d8f&area=true&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
