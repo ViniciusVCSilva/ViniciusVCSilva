@@ -16,7 +16,7 @@
 </div>
  
 <!--  MY GRAPHIC OF COMMITS -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusVictorCo&bg_color=001219&color=2a9d8f&line=e0e1dd&point=2a9d8f&area=true&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusVCSilva&bg_color=001219&color=2a9d8f&line=e0e1dd&point=2a9d8f&area=true&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <!-- CONTACT ME -->
 ##
